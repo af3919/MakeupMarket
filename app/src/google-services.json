@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361576533903",
+    "project_id": "makeup-marketplace",
+    "storage_bucket": "makeup-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361576533903:android:19c9563cff044f53fb45fa",
+        "android_client_info": {
+          "package_name": "com.andru.makeupmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361576533903-tqk8uihkk9d7bj2uhrfhucatanr0ivp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4NqkJIaMvITtB_HHQv6CnnyJelbd43s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361576533903-tqk8uihkk9d7bj2uhrfhucatanr0ivp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
